@@ -1,6 +1,6 @@
 # SQL_Financial_Domain
 
-For complete codes and resultsin a pdf format, check the file SQL_pdf_Financial domain
+For complete codes and results in a pdf format, check the file SQL_pdf_Financial domain
 
 
 
