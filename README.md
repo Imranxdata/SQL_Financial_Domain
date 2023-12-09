@@ -5,7 +5,13 @@ For complete codes and results in a pdf format, check the file SQL_pdf_Financial
 
 
 <img width="549" alt="image" src="https://github.com/Imranxdata/SQL_Financial_Domain/assets/153188263/5a17a8ec-2e65-4258-8260-35bc66d29282">
+
+
 <img width="567" alt="image" src="https://github.com/Imranxdata/SQL_Financial_Domain/assets/153188263/4403658a-70e5-46f4-8843-25a2ec587ca3">
+
+
+<img width="672" alt="image" src="https://github.com/Imranxdata/SQL_Financial_Domain/assets/153188263/681cd080-a161-41e4-9bac-7d92ceb5276e">
+
 
 **FINANCIAL DOMAIN PROJECT REPORT**
 
