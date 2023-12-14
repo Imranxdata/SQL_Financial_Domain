@@ -7,7 +7,6 @@ For complete codes and results in a pdf format, check the file SQL_pdf_Financial
 <img width="549" alt="image" src="https://github.com/Imranxdata/SQL_Financial_Domain/assets/153188263/5a17a8ec-2e65-4258-8260-35bc66d29282">
 
 
-<img width="567" alt="image" src="https://github.com/Imranxdata/SQL_Financial_Domain/assets/153188263/4403658a-70e5-46f4-8843-25a2ec587ca3">
 
 
 <img width="672" alt="image" src="https://github.com/Imranxdata/SQL_Financial_Domain/assets/153188263/681cd080-a161-41e4-9bac-7d92ceb5276e">
@@ -143,4 +142,4 @@ Home ownership-wise summary of total loan applications, total funded amount, and
 
 ---
 
-This comprehensive report offers insights into the bank's loan performance, covering key performance indicators and an overview of trends and metrics related to loan applications, funded amounts, and payments received.
+This report offers insights into the bank's loan performance, covering key performance indicators and an overview of trends and metrics related to loan applications, funded amounts, and payments received.
